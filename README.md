@@ -7,5 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on chinamobile
 - 🌱 I’m currently system researcher
 - 📫 How to reach me: a1345404273@qq.com
+- My contributions : https://github.com/pulls?q=is:pr+author:EdwardVitor+-user:cuiming
  ...
 -->
